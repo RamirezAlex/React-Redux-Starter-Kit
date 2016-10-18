@@ -2,7 +2,17 @@
 The purpose of this starter kit is... TBD
 
 # How to use this Starter Kit
-This starter kit is a combination of best practices, app boilerplates/folder structures, tooling, deployment, do's and don'ts, and more for building apps with React + Redux as the frontend stack.
+This starter kit is a combination of best practices, app boilerplates/folder structures, tooling, deployment, do's and don'ts, and more for building apps with React + Redux as the frontend stack. Take the whole thing, take parts of it, make it your own, and let us know if it can be improved!
+
+# Development
+## Installing your local development environment
+TBD
+
+# Deploying
+TBD
+
+# Backend Recommendations
+TBD - API first
 
 # How to contribute
 If you're not a member of Scalable Path, feel free to fork and submit a pull-request for review/merge - development is a joint effort, and we'd love to have you on board! If you're a member of Scalable Path, hit up @togume to become a direct contributor to the project.
