@@ -1,7 +1,4 @@
-# What is the React + Redux Starter Kit
-The purpose of this starter kit is... TBD
-
-# How to use this Starter Kit
+# What is this and how do I use it?
 This starter kit is a combination of best practices, app boilerplates/folder structures, tooling, deployment, do's and don'ts, and more for building apps with React + Redux as the frontend stack. Take the whole thing, take parts of it, make it your own, and let us know if it can be improved!
 
 # Development
