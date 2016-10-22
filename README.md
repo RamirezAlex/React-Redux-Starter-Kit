@@ -3,7 +3,31 @@ This starter kit is a combination of best practices, app boilerplates/folder str
 
 # Development
 ## Installing your local development environment
-TBD
+```
+git clone git@github.com:ScalablePath/React-Redux-Starter-Kit.git
+cd React-Redux-Starter-Kit
+```
+
+If you are already using [yarn](https://github.com/yarnpkg/yarn), go ahead and type
+```
+yarn
+```
+
+else
+```
+npm install
+```
+## Usage in your local development environment
+```
+npm run start
+```
+
+Visit 
+```
+http://localhost:3000/
+```
+
+Happy Coding!
 
 # Deploying
 TBD
